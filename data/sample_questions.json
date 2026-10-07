@@ -1,0 +1,52 @@
+{
+    "questions": [
+        {
+            "category": "Artists",
+            "question": "Show me the names of all artists."
+        },
+        {
+            "category": "Artists",
+            "question": "How many artists are there?"
+        },
+        {
+            "category": "Albums",
+            "question": "Show the top 10 albums."
+        },
+        {
+            "category": "Tracks",
+            "question": "How many tracks are in the database?"
+        },
+        {
+            "category": "Tracks",
+            "question": "Show the 10 longest tracks."
+        },
+        {
+            "category": "Customers",
+            "question": "Show all customers from Canada."
+        },
+        {
+            "category": "Customers",
+            "question": "Which countries have the most customers?"
+        },
+        {
+            "category": "Invoices",
+            "question": "Show the total invoice amount for each country."
+        },
+        {
+            "category": "Invoices",
+            "question": "Which customers have spent the most money?"
+        },
+        {
+            "category": "Employees",
+            "question": "Show all employees and their job titles."
+        },
+        {
+            "category": "Genres",
+            "question": "How many tracks belong to each genre?"
+        },
+        {
+            "category": "Sales",
+            "question": "What is the total revenue generated?"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+Virtual environment
+
+.venv/
+venv/
+
+Environment variables and secrets
+
+.env
+.env.*
+!.env.example
+
+Python cache
+__pycache__/
+pycache/
+*.py[cod]
+
+Test and coverage cache
+
+.pytest_cache/
+.coverage
+htmlcov/
+
+Editor and operating system files
+
+.vscode/
+.DS_Store
+Thumbs.db
+
+Local database and generated data
+
+database/*.db
+data/generated/
+
+logs/
+*.log
